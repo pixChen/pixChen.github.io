@@ -1,0 +1,50 @@
+{
+    "message":[
+        {
+            "goods_id":"1",
+            "name":"全网超级搜索",
+            "open_type":"navigate",
+            "image_src":"https://api.zhetaoke.com:10001/api/banner/1.jpg",
+            "date_time":"2019/08/03 17:18:08"
+        },
+        {
+            "goods_id":"2",
+            "name":"爆款商品排行",
+            "open_type":"navigate",
+            "image_src":"https://api.zhetaoke.com:10001/api/banner/10.jpg",
+            "date_time":"2019/08/03 17:24:47"
+        },
+        {
+            "goods_id":"3",
+            "name":"咚咚抢",
+            "open_type":"navigate",
+            "image_src":"https://api.zhetaoke.com:10001/api/banner/11.jpg",
+            "date_time":"2019/08/03 17:24:54"
+        },
+        {
+            "goods_id":"4",
+            "name":"天猫超市",
+            "open_type":"navigate",
+            "image_src":"https://api.zhetaoke.com:10001/api/banner/12.jpg",
+            "date_time":"2019/08/03 17:25:02"
+        },
+        {
+            "goods_id":"5",
+            "name":"9块9包邮",
+            "open_type":"navigate",
+            "image_src":"https://api.zhetaoke.com:10001/api/banner/13.jpg",
+            "date_time":"2019/08/03 17:25:08"
+        },
+        {
+            "goods_id":"6", /*自动增长列编号*/
+            "name":"天猫国际",  /*轮播图名称*/
+            "open_type":"navigate",
+            "image_src":"https://api.zhetaoke.com:10001/api/banner/20.jpg",   /*图片地址*/
+            "date_time":"2019/08/03 17:25:17" 
+        }
+    ],
+    "meta":{
+        "msg":"获取成功",
+        "status":200
+    }
+}

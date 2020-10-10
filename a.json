@@ -1,0 +1,47 @@
+{
+    "status":200,
+    "content":[
+        {
+            "code":"6", /*自动增长列编号*/
+            "name":"天猫国际",  /*轮播图名称*/
+            "pic":"https://api.zhetaoke.com:10001/api/banner/20.jpg",   /*图片地址*/
+            "get_url":"https://api.zhetaoke.com:10001/api/api_all.ashx?appkey={替换appkey}&page=1&page_size=20&sort=sale_num_desc&jh=haitao", /*商品请求地址*/
+            "date_time":"2019/08/03 17:25:17"   /*添加时间*/
+        },
+        {
+            "code":"5",
+            "name":"9块9包邮",
+            "pic":"https://api.zhetaoke.com:10001/api/banner/13.jpg",
+            "get_url":"https://api.zhetaoke.com:10001/api/api_all.ashx?appkey={替换appkey}&page=1&page_size=20&sort=sale_num_desc&price=0.0-9.9",
+            "date_time":"2019/08/03 17:25:08"
+        },
+        {
+            "code":"4",
+            "name":"天猫超市",
+            "pic":"https://api.zhetaoke.com:10001/api/banner/12.jpg",
+            "get_url":"https://api.zhetaoke.com:10001/api/api_all.ashx?appkey={替换appkey}&page=1&page_size=20&sort=sale_num_desc&tianmaochaoshi=1",
+            "date_time":"2019/08/03 17:25:02"
+        },
+        {
+            "code":"3",
+            "name":"咚咚抢",
+            "pic":"https://api.zhetaoke.com:10001/api/banner/11.jpg",
+            "get_url":"https://api.zhetaoke.com:10001/api/api_dongdong.ashx?appkey={替换appkey}&page=1&page_size=20&sort=sale_num_desc&t=0-23",
+            "date_time":"2019/08/03 17:24:54"
+        },
+        {
+            "code":"2",
+            "name":"爆款商品排行",
+            "pic":"https://api.zhetaoke.com:10001/api/banner/10.jpg",
+            "get_url":"https://api.zhetaoke.com:10001/api/api_all.ashx?appkey={替换appkey}&page=1&page_size=20&sort=new&baodan=1",
+            "date_time":"2019/08/03 17:24:47"
+        },
+        {
+            "code":"1",
+            "name":"全网超级搜索",
+            "pic":"https://api.zhetaoke.com:10001/api/banner/1.jpg",
+            "get_url":"https://api.zhetaoke.com:10003/api/api_quanwang.ashx?appkey={替换appkey}&page=1&page_size=20&sort=new&q=内衣",
+            "date_time":"2019/08/03 17:18:08"
+        }
+    ]
+}
